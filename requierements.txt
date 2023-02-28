@@ -1,0 +1,6 @@
+discord
+asyncio
+openai
+riotwatcher
+python-dotenv
+requests
